@@ -1,0 +1,33 @@
+{
+  "video": {
+    "duration": "5:22",
+    "views": 8920,
+    "video_id": "103576261",
+    "rating": "86.6667",
+    "ratings": 15,
+    "title": "xyz xyz xyz xyz xyz",
+    "url": "https://www.xyz.com/103576261",
+    "embed_url": "https://embed.xyz.com/?id=103576261",
+    "default_thumb": "https://xyz.xyzxyz.com/videos/202401/28/447287131/original/(m=e0YH8f)(mh=VPQ9D_eYVyFbqyXW)10.jpg",
+    "thumb": "https://xyzxyzxyz.xyzxyz.com/videos/202401/28/447287131/original/(m=e0YH8f)(mh=VPQ9D_eYVyFbqyXW)10.jpg",
+    "publish_date": "2024-01-01 12:00:00",
+    "thumbs": [
+      {
+        "size": "medium",
+        "width": 432,
+        "height": 324,
+        "src": "https://xyzxyzxyz.xyzxyz.com/videos/202401/28/447287131/original/(m=eWgr9f)(mh=VoJ3lTwpo7t2OBLC)15.jpg"
+      },
+      {
+        "size": "big",
+        "width": 432,
+        "height": 324,
+        "src": "https://xyzxyzxyz.xyzxyz.com/videos/202401/28/447287131/original/(m=eWgr9f)(mh=VoJ3lTwpo7t2OBLC)16.jpg"
+      }
+    ],
+    "tags": [
+      "xyz",
+      "Xy Z"
+    ]
+  }
+}
