@@ -1,5 +1,5 @@
 
-An example of my code structure from a pair-programming personal project. Code is truncated for confidentiality.
+An example of a pair-programming personal project. Code is truncated for confidentiality.
 
 Goal: 
 1. Create a web crawler that fetch textual data from an API. Make it async for speed. -> :white_check_mark: Done
